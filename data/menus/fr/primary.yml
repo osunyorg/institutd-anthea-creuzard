@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Projets
-  slug: projets
+- title: Créations
+  slug: creations
   target: "/projets/"
   kind: page
   new_tab: false
@@ -28,8 +28,8 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Personnes
-  slug: personnes
+- title: À Propos
+  slug: a-propos
   target: "/personnes/"
   kind: page
   new_tab: false
