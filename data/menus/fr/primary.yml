@@ -6,8 +6,45 @@ items:
   target: "/projets/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Éditoriales
+    slug: editoriales
+    target: "/projets/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  - title: Plastiques
+    slug: plastiques
+    target: "/projets/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  - title: D'identités visuelles
+    slug: d-identites-visuelles
+    target: "/projets/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  - title: D'une famille de caractère typographique
+    slug: d-une-famille-de-caractere-typographique
+    target: "/projets/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
+  descendants_targets:
+  - "/projets/"
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: À Propos
