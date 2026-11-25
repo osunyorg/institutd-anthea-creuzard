@@ -28,8 +28,8 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Actualités
-  slug: actualites
+- title: Animations
+  slug: animations
   target: "/actualites/"
   kind: page
   new_tab: false
@@ -37,4 +37,11 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Bibliographie
+  slug: bibliographie
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 
